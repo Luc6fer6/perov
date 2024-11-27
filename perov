@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>123</title>
+  <link> https://github.com/perov
+  <description>ABABABABABAB</description>
+  <item>
+    <title>RSS Tutorial</title>
+    <link> https://github.com/perov </link>
+    <description>New RSS tutorial</description>
+  </item>
+  <item>
+    <title>XML Tutorial</title>
+    <link> https://github.com/perov </link>
+    <description>New XML tutorial</description>
+  </item>
+</channel>
+
+</rss>
